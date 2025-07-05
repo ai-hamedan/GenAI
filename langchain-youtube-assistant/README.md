@@ -22,7 +22,5 @@ streamlit run main.py
 
 The web-app uses streamlit and is hosted on [Azure Container Apps.](https://azure.microsoft.com/en-ca/products/container-apps)
 
-## Author
 
-- Twitter: [@rishabkumar7](https://twitter.com/rishabk7)
-- LinkedIn: [rishabkumar7](https://linkedin.com/in/rishabkumar7)
+I cloned this code from (https://linkedin.com/in/rishabkumar7)
